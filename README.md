@@ -40,3 +40,33 @@ List of Stories Included in the **lovecraftr** Package:
 - *The Silver Key* (Acronym: "key")
 - *The Thing on the Doorstep* (Acronym: "door")
 - *Writings in the United Amateur* (Acronym: "WUA")
+
+
+## Citation
+
+When utilizing **lovecraftr** in your research or software development, kindly reference the R package using the citation obtained from the `citation()` function:
+
+
+``` r
+
+### Citation function
+
+citation("lovecraftr")
+
+
+#> To cite package ‘lovecraftr’ in publications use:
+#> 
+#>   Ruff S (2024). _lovecraftr: A Collection of Lovecraftian Tales and Texts_. R package version 1.0.0,
+#>   <https://github.com/SergejRuff/lovecraftr>.
+
+#> A BibTeX entry for LaTeX users is
+
+#>   @Manual{,
+#>     title = {lovecraftr: A Collection of Lovecraftian Tales and Texts},
+#>     author = {Sergej Ruff},
+#>     url = {https://github.com/SergejRuff/lovecraftr},
+#>     year = {2024},
+#>     note = {R package version 1.0.0},
+#>   }
+
+```
