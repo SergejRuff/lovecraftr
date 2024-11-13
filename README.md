@@ -29,6 +29,7 @@ To retrieve the text of a specific story, you can provide either the full title,
 
 List of Stories Included in the **lovecraftr** Package:
 
+- *The Alchemist* (Acronym: "ALC")
 - *At the Mountains of Madness* (Acronym: "MM")
 - *Cool Air* (Acronym: "air")
 - *The Call of Cthulhu* (Acronym: "CC")
