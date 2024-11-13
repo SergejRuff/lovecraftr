@@ -21,6 +21,10 @@ devtools::install_github("SergejRuff/lovecraftr")
 
 ```
 
+## Usage
+
+The `unearth_lovecraftian_tales()` function provides a dataframe containing all available Lovecraft story titles along with their corresponding acronyms. By default, calling unearth_lovecraftian_tales() returns the complete list of titles and acronyms within the package. To retrieve the text of a specific story, you can provide either the full title, e.g., unearth_lovecraftian_tales("At the Mountains of Madness"), or the acronym, e.g., unearth_lovecraftian_tales("MM").
+
 List of Stories Included in the **lovecraftr** Package:
 
 - *At the Mountains of Madness* (Acronym: "MM")
