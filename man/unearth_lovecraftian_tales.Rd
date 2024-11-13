@@ -2,25 +2,25 @@
 % Please edit documentation in R/unearth_lovecraftian_tales.R
 \name{unearth_lovecraftian_tales}
 \alias{unearth_lovecraftian_tales}
-\title{Retrieve Lovecraftian Tales by Name or Acronym}
+\title{Retrieve Lovecraftian Tales by Name or abbreviation}
 \usage{
 unearth_lovecraftian_tales(book = NULL)
 }
 \arguments{
-\item{book}{A character string representing the full name or acronym of the Lovecraft story to search for.
-The search is case-insensitive. If \code{NULL}, the function returns a list of all available stories and their acronyms.}
+\item{book}{A character string representing the full name or abbreviation of the Lovecraft story to search for.
+The search is case-insensitive. If \code{NULL}, the function returns a list of all available stories and their abbreviations.}
 }
 \value{
 If a valid book is selected, a data frame with the following columns:
   \describe{
   \item{text}{The text of the selected story.}
     \item{title}{The title of the selected Lovecraft story.}
-    \item{acronym}{The acronym corresponding to the story.}
+    \item{abbreviation}{The abbreviation corresponding to the story.}
   }
   If no book is specified, the function returns a data frame with two columns:
   \describe{
     \item{story}{The name of the available story.}
-    \item{acronym}{The corresponding acronym for each story.}
+    \item{abbreviation}{The corresponding abbreviation for each story.}
   }
 }
 \description{
@@ -33,13 +33,13 @@ unearth_lovecraftian_tales()
 # Retrieve a story by full name (case-insensitive)
 unearth_lovecraftian_tales("The shadow over innsmouth")
 
-# Retrieve a story by acronym (case-insensitive)
+# Retrieve a story by abbreviation (case-insensitive)
 unearth_lovecraftian_tales("soi")
 
-# Retrieve a story with partial name or acronym (case-insensitive)
+# Retrieve a story with partial name or abbreviation (case-insensitive)
 unearth_lovecraftian_tales("call")
 
-# Retrieve a story by acronym
+# Retrieve a story by abbreviation
 unearth_lovecraftian_tales("RH")
 
 }

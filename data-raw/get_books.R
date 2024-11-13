@@ -3,7 +3,8 @@
 
 library(gutenbergr)
 library(readr)
-
+library(devtools)
+library(usethis)
 remove_illustrations_and_stars <- function(text_vector) {
   # Find the indices of the elements containing [Illustration:
   start_indices <- grep("\\[Illustration:", text_vector)
@@ -26,6 +27,9 @@ remove_illustrations_and_stars <- function(text_vector) {
     }
   }
 
+
+
+
   # Remove the marked elements
   cleaned_text_vector <- text_vector[!to_remove]
 
@@ -35,6 +39,20 @@ remove_illustrations_and_stars <- function(text_vector) {
   return(cleaned_text_vector)
 }
 
+
+# Function to extract plain text from an HTML page and return as a vector
+extract_text_from_url <- function(url) {
+  # Read HTML content from the URL
+  html_content <- read_html(url)
+
+  # Extract plain text as a single string
+  plain_text <- html_text(html_content)
+
+  # Split the plain text into individual lines (or paragraphs) based on newlines
+  text_vector <- strsplit(plain_text, split = "\n")[[1]]
+
+  return(text_vector)
+}
 
 
 call_of_cthulhu <- gutenberg_download(68283,
@@ -112,6 +130,10 @@ air <- read_lines("https://www.gutenberg.org/cache/epub/73177/pg73177.txt", skip
 
 air <- air[-c(6:15,352:length(air))]
 
+alchemist <- extract_text_from_url("https://www.hplovecraft.com/writings/texts/fiction/a.aspx")
+
+alchemist <- alchemist[-c(1:98,322:length(alchemist))]
+
 # function to remove illustrations and seperation *****
 call_of_cthulhu <- remove_illustrations_and_stars(call_of_cthulhu)
 mountain_madness <- remove_illustrations_and_stars(mountain_madness)
@@ -148,3 +170,4 @@ use_data(key, overwrite = TRUE)
 use_data(iranon, overwrite = TRUE)
 use_data(he, overwrite = TRUE)
 use_data(air, overwrite = TRUE)
+use_data(alchemist, overwrite = TRUE)

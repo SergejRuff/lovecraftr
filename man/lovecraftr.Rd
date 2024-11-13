@@ -13,6 +13,7 @@ text analysis, and exploration of Lovecraft’s unique themes and style within t
 List of Stories Included in the \emph{lovecraftr} Package:
 
 \describe{
+  \item{\emph{The Alchemist} - ALC}{}
   \item{\emph{At the Mountains of Madness} - MM}{}
   \item{\emph{Cool Air} - air}{}
   \item{\emph{The Call of Cthulhu} - CC}{}
