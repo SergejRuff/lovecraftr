@@ -23,30 +23,30 @@ devtools::install_github("SergejRuff/lovecraftr")
 
 ## Usage
 
-The `unearth_lovecraftian_tales()` function provides a dataframe containing all available Lovecraft story titles along with their corresponding acronyms. 
-By default, calling `unearth_lovecraftian_tales()` returns the complete list of titles and acronyms within the package. 
-To retrieve the text of a specific story, you can provide either the full title, e.g., `unearth_lovecraftian_tales("At the Mountains of Madness")`, or the acronym, e.g., `unearth_lovecraftian_tales("MM")`.
+The `unearth_lovecraftian_tales()` function provides a dataframe containing all available Lovecraft story titles along with their corresponding abbreviations. 
+By default, calling `unearth_lovecraftian_tales()` returns the complete list of titles and abbreviations within the package. 
+To retrieve the text of a specific story, you can provide either the full title, e.g., `unearth_lovecraftian_tales("At the Mountains of Madness")`, or the abbreviation, e.g., `unearth_lovecraftian_tales("MM")`.
 
 List of Stories Included in the **lovecraftr** Package:
 
-- *The Alchemist* (Acronym: "ALC")
-- *At the Mountains of Madness* (Acronym: "MM")
-- *Cool Air* (Acronym: "air")
-- *The Call of Cthulhu* (Acronym: "CC")
-- *The Case of Charles Dexter Ward* (Acronym: "CDW")
-- *The Colour Out of Space* (Acronym: "CS")
-- *The Dunwich Horror* (Acronym: "DW")
-- *The Festival* (Acronym: "FE")
-- *He* (Acronym: "HE")
-- *The Haunter of the Dark* (Acronym: "haunter")
-- *The Horror at Red Hook* (Acronym: "RH")
-- *The Lurking Fear* (Acronym: "LURK")
-- *The Quest of Iranon* (Acronym: "IRA")
-- *The Shadow over Innsmouth* (Acronym: "SOI")
-- *The Shunned House* (Acronym: "TSH")
-- *The Silver Key* (Acronym: "key")
-- *The Thing on the Doorstep* (Acronym: "door")
-- *Writings in the United Amateur* (Acronym: "WUA")
+- *The Alchemist* (abbreviation: "ALC")
+- *At the Mountains of Madness* (abbreviation: "MM")
+- *Cool Air* (abbreviation: "air")
+- *The Call of Cthulhu* (abbreviation: "CC")
+- *The Case of Charles Dexter Ward* (abbreviation: "CDW")
+- *The Colour Out of Space* (abbreviation: "CS")
+- *The Dunwich Horror* (abbreviation: "DW")
+- *The Festival* (abbreviation: "FE")
+- *He* (abbreviation: "HE")
+- *The Haunter of the Dark* (abbreviation: "haunter")
+- *The Horror at Red Hook* (abbreviation: "RH")
+- *The Lurking Fear* (abbreviation: "LURK")
+- *The Quest of Iranon* (abbreviation: "IRA")
+- *The Shadow over Innsmouth* (abbreviation: "SOI")
+- *The Shunned House* (abbreviation: "TSH")
+- *The Silver Key* (abbreviation: "key")
+- *The Thing on the Doorstep* (abbreviation: "door")
+- *Writings in the United Amateur* (abbreviation: "WUA")
 
 
 ## Citation
