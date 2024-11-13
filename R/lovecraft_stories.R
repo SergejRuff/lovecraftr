@@ -85,3 +85,110 @@
 #' @source <https://www.gutenberg.org/ebooks/50133>
 #' @format A character vector with 1694 elements
 "dunwich_horror"
+
+
+#' The text of H.P. Lovecraft's "Writings in the United Amateur"
+#'
+#' A dataset containing the full text of H.P. Lovecraft's
+#' "Writings in the United Amateur".
+#' The text is provided as a character vector, with each element
+#' representing a chunk of the full text.
+#'
+#' @source <https://www.gutenberg.org/ebooks/30637>
+#' @format A character vector with 10749 elements
+"united_amateur"
+
+
+#' The text of H.P. Lovecraft's "The haunter of the dark"
+#'
+#' A dataset containing the full text of H.P. Lovecraft's
+#' "The haunter of the dark".
+#' The text is provided as a character vector, with each element
+#' representing a chunk of the full text.
+#'
+#' @source <https://www.gutenberg.org/ebooks/73233>
+#' @format A character vector with 954 elements
+"haunter_dark"
+
+#' The text of H.P. Lovecraft's "The thing on the door-step"
+#'
+#' A dataset containing the full text of H.P. Lovecraft's
+#' "The thing on the door-step".
+#' The text is provided as a character vector, with each element
+#' representing a chunk of the full text.
+#'
+#' @source <https://www.gutenberg.org/ebooks/73230>
+#' @format A character vector with 1081 elements
+"door_step"
+
+
+#' The text of H.P. Lovecraft's "The festival"
+#'
+#' A dataset containing the full text of H.P. Lovecraft's
+#' "The festival".
+#' The text is provided as a character vector, with each element
+#' representing a chunk of the full text.
+#'
+#' @source <https://www.gutenberg.org/ebooks/68553>
+#' @format A character vector with 345 elements
+"festival"
+
+
+#' The text of H.P. Lovecraft's "The lurking fear"
+#'
+#' A dataset containing the full text of H.P. Lovecraft's
+#' "The lurking fear".
+#' The text is provided as a character vector, with each element
+#' representing a chunk of the full text.
+#'
+#' @source <https://www.gutenberg.org/ebooks/70486>
+#' @format A character vector with 791 elements
+"lurking"
+
+
+#' The text of H.P. Lovecraft's "The silver key"
+#'
+#' A dataset containing the full text of H.P. Lovecraft's
+#' "The silver key".
+#' The text is provided as a character vector, with each element
+#' representing a chunk of the full text.
+#'
+#' @source <https://www.gutenberg.org/ebooks/70478>
+#' @format A character vector with 472 elements
+"key"
+
+
+#' The text of H.P. Lovecraft's "The quest of Iranon"
+#'
+#' A dataset containing the full text of H.P. Lovecraft's
+#' "The quest of Iranon".
+#' The text is provided as a character vector, with each element
+#' representing a chunk of the full text.
+#'
+#' @source <https://www.gutenberg.org/ebooks/73182>
+#' @format A character vector with 258 elements
+"iranon"
+
+
+#' The text of H.P. Lovecraft's "He"
+#'
+#' A dataset containing the full text of H.P. Lovecraft's
+#' "He".
+#' The text is provided as a character vector, with each element
+#' representing a chunk of the full text.
+#'
+#' @source <https://www.gutenberg.org/ebooks/68547>
+#' @format A character vector with 419 elements
+"he"
+
+
+#' The text of H.P. Lovecraft's "Cool air"
+#'
+#' A dataset containing the full text of H.P. Lovecraft's
+#' "Cool air".
+#' The text is provided as a character vector, with each element
+#' representing a chunk of the full text.
+#'
+#' @source <https://www.gutenberg.org/ebooks/73177>
+#' @format A character vector with 339 elements
+"air"

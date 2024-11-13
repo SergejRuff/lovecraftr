@@ -11,11 +11,11 @@ unearth_lovecraftian_tales(book = NULL)
 The search is case-insensitive. If \code{NULL}, the function returns a list of all available stories and their acronyms.}
 }
 \value{
-If a valid book is selected, a list with three elements:
+If a valid book is selected, a data frame with the following columns:
   \describe{
-    \item{title}{The title of the selected Lovecraft story as a character vector.}
-    \item{acronym}{The acronym corresponding to the story as a character vector.}
-    \item{text}{The text of the selected story as a character vector.}
+  \item{text}{The text of the selected story.}
+    \item{title}{The title of the selected Lovecraft story.}
+    \item{acronym}{The acronym corresponding to the story.}
   }
   If no book is specified, the function returns a data frame with two columns:
   \describe{

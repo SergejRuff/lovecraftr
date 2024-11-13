@@ -1,7 +1,7 @@
 Package: lovecraftr
 Type: Package
 Title: A Collection of Lovecraftian Tales and Texts
-Version: 0.1.0
+Version: 1.0.0
 Authors@R: 
     person("Ruff", "Sergej", email = "serijnh@gmail.com", role = c("aut", "cre"),
            comment = c(ORCID = "0009-0000-8264-6347"))
@@ -10,6 +10,8 @@ Description: A curated collection of Howard Phillips
     Lovecraft's complete stories, collected for the purpose of text 
     analysis.
 License: GPL (>= 3)
+URL: https://github.com/SergejRuff/lovecraftr
+BugReports: https://github.com/SergejRuff/lovecraftr/issues
 Encoding: UTF-8
 LazyData: true
 Depends: 
