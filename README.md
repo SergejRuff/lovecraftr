@@ -39,6 +39,7 @@ List of Stories Included in the **lovecraftr** Package:
 - *The Dunwich Horror* (abbreviation: "DW")
 - *The Festival* (abbreviation: "FE")
 - *He* (abbreviation: "HE")
+- *The Beast in the Cave* (abbreviation: "BIC")
 - *The Haunter of the Dark* (abbreviation: "haunter")
 - *The Horror at Red Hook* (abbreviation: "RH")
 - *The Lurking Fear* (abbreviation: "LURK")

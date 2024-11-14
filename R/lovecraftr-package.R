@@ -18,6 +18,7 @@
 #'   \item{\emph{The Dunwich Horror} - DW}{}
 #'   \item{\emph{The Festival} - FE}{}
 #'   \item{\emph{He} - HE}{}
+#'   \item{\emph{The Beast in the Cave} - BIC}{}
 #'   \item{\emph{The Haunter of the Dark} - haunter}{}
 #'   \item{\emph{The Horror at Red Hook} - RH}{}
 #'   \item{\emph{The Lurking Fear} - LURK}{}
