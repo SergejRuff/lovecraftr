@@ -34,6 +34,7 @@ List of Stories Included in the **lovecraftr** Package:
 - *Azathoth* (abbreviation: "AZA")
 - *Beyond the Wall of Sleep* (abbreviation: "BWS")
 - *Cool Air* (abbreviation: "air")
+- *The Book* (abbreviation: "book")
 - *The Call of Cthulhu* (abbreviation: "CC")
 - *The Case of Charles Dexter Ward* (abbreviation: "CDW")
 - *The Colour Out of Space* (abbreviation: "CS")

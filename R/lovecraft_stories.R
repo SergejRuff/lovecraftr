@@ -244,3 +244,15 @@
 #' @format A character vector with 274 elements
 "wall_sleep"
 
+
+
+#' The text of H.P. Lovecraft's "The Book"
+#'
+#' A dataset containing the full text of H.P. Lovecraft's
+#' "The Book".
+#' The text is provided as a character vector, with each element
+#' representing a chunk of the full text.
+#'
+#' @source <https://www.hplovecraft.com/writings/texts/fiction/b.aspx>
+#' @format A character vector with 75 elements
+"book"

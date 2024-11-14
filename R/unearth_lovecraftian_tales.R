@@ -57,7 +57,8 @@ unearth_lovecraftian_tales <- function(book = NULL) {
     "The Alchemist" = list(title = "The Alchemist", abbreviation = "ALC", text = lovecraftr::alchemist),
     "Azathoth" = list(title = "Azathoth", abbreviation = "AZA", text = lovecraftr::azathoth),
     "The Beast in the Cave" = list(title = "The Beast in the Cave", abbreviation = "BIC", text = lovecraftr::beast_cave),
-    "Beyond the Wall of Sleep" = list(title = "Beyond the Wall of Sleep", abbreviation = "BWS", text = lovecraftr::beast_cave)
+    "Beyond the Wall of Sleep" = list(title = "Beyond the Wall of Sleep", abbreviation = "BWS", text = lovecraftr::beast_cave),
+    "The Book" = list(title = "The Book", abbreviation = "book", text = lovecraftr::book)
   )
 
   # If no book is selected, return the list of available stories
