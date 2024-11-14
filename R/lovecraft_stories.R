@@ -205,3 +205,16 @@
 #' @source <https://www.hplovecraft.com/writings/texts/fiction/a.aspx>
 #' @format A character vector with 223 elements
 "alchemist"
+
+
+
+#' The text of H.P. Lovecraft's "Azathoth"
+#'
+#' A dataset containing the full text of H.P. Lovecraft's
+#' "Azathoth".
+#' The text is provided as a character vector, with each element
+#' representing a chunk of the full text.
+#'
+#' @source <https://www.hplovecraft.com/writings/texts/fiction/az.aspx>
+#' @format A character vector with 34 elements
+"azathoth"

@@ -15,6 +15,7 @@ List of Stories Included in the \emph{lovecraftr} Package:
 \describe{
   \item{\emph{The Alchemist} - ALC}{}
   \item{\emph{At the Mountains of Madness} - MM}{}
+  \item{\emph{Azathoth} - AZA}{}
   \item{\emph{Cool Air} - air}{}
   \item{\emph{The Call of Cthulhu} - CC}{}
   \item{\emph{The Case of Charles Dexter Ward} - CDW}{}

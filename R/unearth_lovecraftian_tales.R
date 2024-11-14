@@ -54,7 +54,8 @@ unearth_lovecraftian_tales <- function(book = NULL) {
     "The quest of Iranon" = list(title = "The quest of Iranon", abbreviation = "IRA", text = lovecraftr::iranon),
     "He" = list(title = "He", abbreviation = "HE", text = lovecraftr::he),
     "Cool air" = list(title = "Cool air", abbreviation = "air", text = lovecraftr::air),
-    "The Alchemist" = list(title = "The Alchemist", abbreviation = "ALC", text = lovecraftr::alchemist)
+    "The Alchemist" = list(title = "The Alchemist", abbreviation = "ALC", text = lovecraftr::alchemist),
+    "Azathoth" = list(title = "Azathoth", abbreviation = "AZA", text = lovecraftr::azathoth)
   )
 
   # If no book is selected, return the list of available stories

@@ -31,6 +31,7 @@ List of Stories Included in the **lovecraftr** Package:
 
 - *The Alchemist* (abbreviation: "ALC")
 - *At the Mountains of Madness* (abbreviation: "MM")
+- *Azathoth* (abbreviation: "AZA")
 - *Cool Air* (abbreviation: "air")
 - *The Call of Cthulhu* (abbreviation: "CC")
 - *The Case of Charles Dexter Ward* (abbreviation: "CDW")

@@ -1,3 +1,5 @@
+rm(list = ls())
+
 ## script to download the necessary HP lovecraft books
 
 
@@ -5,6 +7,8 @@ library(gutenbergr)
 library(readr)
 library(devtools)
 library(usethis)
+library(rvest)
+
 remove_illustrations_and_stars <- function(text_vector) {
   # Find the indices of the elements containing [Illustration:
   start_indices <- grep("\\[Illustration:", text_vector)
@@ -134,6 +138,11 @@ alchemist <- extract_text_from_url("https://www.hplovecraft.com/writings/texts/f
 
 alchemist <- alchemist[-c(1:98,322:length(alchemist))]
 
+
+azathoth <- extract_text_from_url("https://www.hplovecraft.com/writings/texts/fiction/az.aspx")
+
+azathoth <- azathoth[98:131]
+
 # function to remove illustrations and seperation *****
 call_of_cthulhu <- remove_illustrations_and_stars(call_of_cthulhu)
 mountain_madness <- remove_illustrations_and_stars(mountain_madness)
@@ -171,3 +180,4 @@ use_data(iranon, overwrite = TRUE)
 use_data(he, overwrite = TRUE)
 use_data(air, overwrite = TRUE)
 use_data(alchemist, overwrite = TRUE)
+use_data(azathoth, overwrite = TRUE)
