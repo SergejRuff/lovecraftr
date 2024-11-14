@@ -44,6 +44,7 @@ List of Stories Included in the **lovecraftr** Package:
 - *The Cats of Ulthar* (abbreviation: "cat")
 - *The Colour Out of Space* (abbreviation: "CS")
 - *The Descendant* (abbreviation: "DE")
+- *The Doom That Came to Sarnath* (abbreviation: "DS")
 - *The Dunwich Horror* (abbreviation: "DW")
 - *The Festival* (abbreviation: "FE")
 - *The Haunter of the Dark* (abbreviation: "haunter")

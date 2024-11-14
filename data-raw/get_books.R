@@ -173,6 +173,10 @@ descendant <- descendant[99:190]
 
 descendant <- gsub("\\*{3,}", "", descendant)
 
+doom <- extract_text_from_url("https://www.hplovecraft.com/writings/texts/fiction/ds.aspx")
+
+doom <- doom[99:258]
+
 # function to remove illustrations and seperation *****
 call_of_cthulhu <- remove_illustrations_and_stars(call_of_cthulhu)
 mountain_madness <- remove_illustrations_and_stars(mountain_madness)
@@ -218,3 +222,4 @@ use_data(cats, overwrite = TRUE)
 use_data(celephais, overwrite = TRUE)
 use_data(dagon, overwrite = TRUE)
 use_data(descendant, overwrite = TRUE)
+use_data(doom, overwrite = TRUE)

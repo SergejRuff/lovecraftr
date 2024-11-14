@@ -302,3 +302,14 @@
 #' @source <https://www.hplovecraft.com/writings/texts/fiction/de.aspx>
 #' @format A character vector with 92 elements
 "descendant"
+
+#' The text of H.P. Lovecraft's "The Doom That Came to Sarnath"
+#'
+#' A dataset containing the full text of H.P. Lovecraft's
+#' "The Doom That Came to Sarnath".
+#' The text is provided as a character vector, with each element
+#' representing a chunk of the full text.
+#'
+#' @source <https://www.hplovecraft.com/writings/texts/fiction/ds.aspx>
+#' @format A character vector with 160 elements
+"doom"
