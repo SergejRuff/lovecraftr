@@ -29,19 +29,20 @@ To retrieve the text of a specific story, you can provide either the full title,
 
 List of Stories Included in the **lovecraftr** Package:
 
-- *The Alchemist* (abbreviation: "ALC")
 - *At the Mountains of Madness* (abbreviation: "MM")
 - *Azathoth* (abbreviation: "AZA")
 - *Beyond the Wall of Sleep* (abbreviation: "BWS")
 - *Cool Air* (abbreviation: "air")
+- *He* (abbreviation: "HE")
+- *The Alchemist* (abbreviation: "ALC")
+- *The Beast in the Cave* (abbreviation: "BIC")
 - *The Book* (abbreviation: "book")
 - *The Call of Cthulhu* (abbreviation: "CC")
 - *The Case of Charles Dexter Ward* (abbreviation: "CDW")
+- *The Cats of Ulthar* (abbreviation: "cat")
 - *The Colour Out of Space* (abbreviation: "CS")
 - *The Dunwich Horror* (abbreviation: "DW")
 - *The Festival* (abbreviation: "FE")
-- *He* (abbreviation: "HE")
-- *The Beast in the Cave* (abbreviation: "BIC")
 - *The Haunter of the Dark* (abbreviation: "haunter")
 - *The Horror at Red Hook* (abbreviation: "RH")
 - *The Lurking Fear* (abbreviation: "LURK")

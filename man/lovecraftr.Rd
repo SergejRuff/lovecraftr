@@ -13,19 +13,20 @@ text analysis, and exploration of Lovecraft’s unique themes and style within t
 List of Stories Included in the \emph{lovecraftr} Package:
 
 \describe{
-  \item{\emph{The Alchemist} - ALC}{}
   \item{\emph{At the Mountains of Madness} - MM}{}
   \item{\emph{Azathoth} - AZA}{}
   \item{\emph{Beyond the Wall of Sleep} - BWS}{}
   \item{\emph{Cool Air} - air}{}
+  \item{\emph{He} - HE}{}
+  \item{\emph{The Alchemist} - ALC}{}
+  \item{\emph{The Beast in the Cave} - BIC}{}
   \item{\emph{The Book} - book}{}
   \item{\emph{The Call of Cthulhu} - CC}{}
   \item{\emph{The Case of Charles Dexter Ward} - CDW}{}
+  \item{\emph{The Cats of Ulthar} - cat}{}
   \item{\emph{The Colour Out of Space} - CS}{}
   \item{\emph{The Dunwich Horror} - DW}{}
   \item{\emph{The Festival} - FE}{}
-  \item{\emph{He} - HE}{}
-  \item{\emph{The Beast in the Cave} - BIC}{}
   \item{\emph{The Haunter of the Dark} - haunter}{}
   \item{\emph{The Horror at Red Hook} - RH}{}
   \item{\emph{The Lurking Fear} - LURK}{}

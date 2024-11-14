@@ -256,3 +256,15 @@
 #' @source <https://www.hplovecraft.com/writings/texts/fiction/b.aspx>
 #' @format A character vector with 75 elements
 "book"
+
+
+#' The text of H.P. Lovecraft's "The Cats of Ulthar"
+#'
+#' A dataset containing the full text of H.P. Lovecraft's
+#' "The Cats of Ulthar".
+#' The text is provided as a character vector, with each element
+#' representing a chunk of the full text.
+#'
+#' @source <https://www.hplovecraft.com/writings/texts/fiction/cu.aspx>
+#' @format A character vector with 82 elements
+"cats"
