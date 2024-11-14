@@ -291,3 +291,14 @@
 #' @source <https://www.hplovecraft.com/writings/texts/fiction/d.aspx>
 #' @format A character vector with 133 elements
 "dagon"
+
+#' The text of H.P. Lovecraft's "The Descendant"
+#'
+#' A dataset containing the full text of H.P. Lovecraft's
+#' "The Descendant".
+#' The text is provided as a character vector, with each element
+#' representing a chunk of the full text.
+#'
+#' @source <https://www.hplovecraft.com/writings/texts/fiction/de.aspx>
+#' @format A character vector with 92 elements
+"descendant"

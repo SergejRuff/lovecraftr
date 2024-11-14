@@ -61,7 +61,8 @@ unearth_lovecraftian_tales <- function(book = NULL) {
     "The Book" = list(title = "The Book", abbreviation = "book", text = lovecraftr::book),
     "The Cats of Ulthar" = list(title = "The Cats of Ulthar", abbreviation = "cat", text = lovecraftr::cats),
     "Celephais" = list(title = "Celephais", abbreviation = "C", text = lovecraftr::celephais),
-    "Dagon" = list(title = "Dagon", abbreviation = "D", text = lovecraftr::dagon)
+    "Dagon" = list(title = "Dagon", abbreviation = "D", text = lovecraftr::dagon),
+    "The Descendant" = list(title = "The Descendant", abbreviation = "DE", text = lovecraftr::descendant)
   )
 
   # If no book is selected, return the list of available stories

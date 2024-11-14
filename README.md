@@ -43,6 +43,7 @@ List of Stories Included in the **lovecraftr** Package:
 - *The Case of Charles Dexter Ward* (abbreviation: "CDW")
 - *The Cats of Ulthar* (abbreviation: "cat")
 - *The Colour Out of Space* (abbreviation: "CS")
+- *The Descendant* (abbreviation: "DE")
 - *The Dunwich Horror* (abbreviation: "DW")
 - *The Festival* (abbreviation: "FE")
 - *The Haunter of the Dark* (abbreviation: "haunter")

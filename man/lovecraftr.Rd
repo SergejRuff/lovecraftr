@@ -27,6 +27,7 @@ List of Stories Included in the \emph{lovecraftr} Package:
   \item{\emph{The Case of Charles Dexter Ward} - CDW}{}
   \item{\emph{The Cats of Ulthar} - cat}{}
   \item{\emph{The Colour Out of Space} - CS}{}
+  \item{\emph{The Descendant} - DE}{}
   \item{\emph{The Dunwich Horror} - DW}{}
   \item{\emph{The Festival} - FE}{}
   \item{\emph{The Haunter of the Dark} - haunter}{}
