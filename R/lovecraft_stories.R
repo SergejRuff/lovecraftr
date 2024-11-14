@@ -231,3 +231,16 @@
 #' @source <https://www.hplovecraft.com/writings/texts/fiction/bc.aspx>
 #' @format A character vector with 153 elements
 "beast_cave"
+
+
+#' The text of H.P. Lovecraft's "Beyond the Wall of Sleep"
+#'
+#' A dataset containing the full text of H.P. Lovecraft's
+#' "Beyond the Wall of Sleep".
+#' The text is provided as a character vector, with each element
+#' representing a chunk of the full text.
+#'
+#' @source <https://www.hplovecraft.com/writings/texts/fiction/bws.aspx>
+#' @format A character vector with 274 elements
+"wall_sleep"
+

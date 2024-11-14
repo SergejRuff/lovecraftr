@@ -147,6 +147,10 @@ beast_cave <- extract_text_from_url("https://www.hplovecraft.com/writings/texts/
 
 beast_cave <- beast_cave[98:250]
 
+wall_sleep <- extract_text_from_url("https://www.hplovecraft.com/writings/texts/fiction/bws.aspx")
+
+wall_sleep <- wall_sleep[98:371]
+
 # function to remove illustrations and seperation *****
 call_of_cthulhu <- remove_illustrations_and_stars(call_of_cthulhu)
 mountain_madness <- remove_illustrations_and_stars(mountain_madness)
@@ -186,3 +190,4 @@ use_data(air, overwrite = TRUE)
 use_data(alchemist, overwrite = TRUE)
 use_data(azathoth, overwrite = TRUE)
 use_data(beast_cave, overwrite = TRUE)
+use_data(wall_sleep, overwrite = TRUE)
