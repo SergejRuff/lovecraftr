@@ -159,6 +159,10 @@ cats <- extract_text_from_url("https://www.hplovecraft.com/writings/texts/fictio
 
 cats <-cats[98:179]
 
+celephais <- extract_text_from_url("https://www.hplovecraft.com/writings/texts/fiction/c.aspx")
+
+celephais <-celephais[98:250]
+
 # function to remove illustrations and seperation *****
 call_of_cthulhu <- remove_illustrations_and_stars(call_of_cthulhu)
 mountain_madness <- remove_illustrations_and_stars(mountain_madness)
@@ -201,3 +205,4 @@ use_data(beast_cave, overwrite = TRUE)
 use_data(wall_sleep, overwrite = TRUE)
 use_data(book, overwrite = TRUE)
 use_data(cats, overwrite = TRUE)
+use_data(celephais, overwrite = TRUE)

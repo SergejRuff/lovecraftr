@@ -32,6 +32,7 @@ List of Stories Included in the **lovecraftr** Package:
 - *At the Mountains of Madness* (abbreviation: "MM")
 - *Azathoth* (abbreviation: "AZA")
 - *Beyond the Wall of Sleep* (abbreviation: "BWS")
+- *Celephais* (abbreviation: "C")
 - *Cool Air* (abbreviation: "air")
 - *He* (abbreviation: "HE")
 - *The Alchemist* (abbreviation: "ALC")

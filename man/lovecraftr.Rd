@@ -16,6 +16,7 @@ List of Stories Included in the \emph{lovecraftr} Package:
   \item{\emph{At the Mountains of Madness} - MM}{}
   \item{\emph{Azathoth} - AZA}{}
   \item{\emph{Beyond the Wall of Sleep} - BWS}{}
+  \item{\emph{Celephais} - C}{}
   \item{\emph{Cool Air} - air}{}
   \item{\emph{He} - HE}{}
   \item{\emph{The Alchemist} - ALC}{}

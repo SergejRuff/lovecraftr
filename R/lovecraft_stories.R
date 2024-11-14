@@ -268,3 +268,15 @@
 #' @source <https://www.hplovecraft.com/writings/texts/fiction/cu.aspx>
 #' @format A character vector with 82 elements
 "cats"
+
+
+#' The text of H.P. Lovecraft's "Celephaïs"
+#'
+#' A dataset containing the full text of H.P. Lovecraft's
+#' "Celephaïs".
+#' The text is provided as a character vector, with each element
+#' representing a chunk of the full text.
+#'
+#' @source <https://www.hplovecraft.com/writings/texts/fiction/c.aspx>
+#' @format A character vector with 153 elements
+"celephais"
