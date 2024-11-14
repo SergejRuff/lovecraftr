@@ -13,6 +13,7 @@
 #'   \item{\emph{Beyond the Wall of Sleep} - BWS}{}
 #'   \item{\emph{Celephais} - C}{}
 #'   \item{\emph{Cool Air} - air}{}
+#'   \item{\emph{Dagon} - D}{}
 #'   \item{\emph{He} - HE}{}
 #'   \item{\emph{The Alchemist} - ALC}{}
 #'   \item{\emph{The Beast in the Cave} - BIC}{}

@@ -163,6 +163,10 @@ celephais <- extract_text_from_url("https://www.hplovecraft.com/writings/texts/f
 
 celephais <-celephais[98:250]
 
+dagon <- extract_text_from_url("https://www.hplovecraft.com/writings/texts/fiction/d.aspx")
+
+dagon <- dagon[99:231]
+
 # function to remove illustrations and seperation *****
 call_of_cthulhu <- remove_illustrations_and_stars(call_of_cthulhu)
 mountain_madness <- remove_illustrations_and_stars(mountain_madness)
@@ -206,3 +210,4 @@ use_data(wall_sleep, overwrite = TRUE)
 use_data(book, overwrite = TRUE)
 use_data(cats, overwrite = TRUE)
 use_data(celephais, overwrite = TRUE)
+use_data(dagon, overwrite = TRUE)

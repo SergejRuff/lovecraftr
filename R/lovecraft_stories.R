@@ -280,3 +280,14 @@
 #' @source <https://www.hplovecraft.com/writings/texts/fiction/c.aspx>
 #' @format A character vector with 153 elements
 "celephais"
+
+#' The text of H.P. Lovecraft's "Dagon"
+#'
+#' A dataset containing the full text of H.P. Lovecraft's
+#' "Dagon".
+#' The text is provided as a character vector, with each element
+#' representing a chunk of the full text.
+#'
+#' @source <https://www.hplovecraft.com/writings/texts/fiction/d.aspx>
+#' @format A character vector with 133 elements
+"dagon"

@@ -60,7 +60,8 @@ unearth_lovecraftian_tales <- function(book = NULL) {
     "Beyond the Wall of Sleep" = list(title = "Beyond the Wall of Sleep", abbreviation = "BWS", text = lovecraftr::beast_cave),
     "The Book" = list(title = "The Book", abbreviation = "book", text = lovecraftr::book),
     "The Cats of Ulthar" = list(title = "The Cats of Ulthar", abbreviation = "cat", text = lovecraftr::cats),
-    "Celephais" = list(title = "Celephais", abbreviation = "C", text = lovecraftr::celephais)
+    "Celephais" = list(title = "Celephais", abbreviation = "C", text = lovecraftr::celephais),
+    "Dagon" = list(title = "Dagon", abbreviation = "D", text = lovecraftr::dagon)
   )
 
   # If no book is selected, return the list of available stories

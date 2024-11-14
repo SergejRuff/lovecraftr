@@ -34,6 +34,7 @@ List of Stories Included in the **lovecraftr** Package:
 - *Beyond the Wall of Sleep* (abbreviation: "BWS")
 - *Celephais* (abbreviation: "C")
 - *Cool Air* (abbreviation: "air")
+- *Dagon* (abbreviation: "D")
 - *He* (abbreviation: "HE")
 - *The Alchemist* (abbreviation: "ALC")
 - *The Beast in the Cave* (abbreviation: "BIC")
