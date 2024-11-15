@@ -68,7 +68,9 @@ unearth_lovecraftian_tales <- function(book = NULL) {
     "Herbert West Reanimator" = list(title = "Herbert West Reanimator", abbreviation = "HWR", text = lovecraftr::reanimator),
     "The Hound" = list(title = "The Hound", abbreviation = "H", text = lovecraftr::hound),
     "The Music of Erich Zann" = list(title = "The Music of Erich Zann", abbreviation = "MEZ", text = lovecraftr::erich_zann),
-    "The Nameless City" = list(title = "The Nameless City", abbreviation = "NC", text = lovecraftr::city)
+    "The Nameless City" = list(title = "The Nameless City", abbreviation = "NC", text = lovecraftr::city),
+    "The Outsider" = list(title = "The Outsider", abbreviation = "O", text = lovecraftr::outsider)
+
   )
 
   # If no book is selected, return the list of available stories

@@ -55,6 +55,7 @@ List of Stories Included in the **lovecraftr** Package:
 - *The Lurking Fear* (abbreviation: "LURK")
 - *The Music of Erich Zann* (abbreviation: "MEZ")
 - *The Nameless City* (abbreviation: "NC")
+- *The Outsider* (abbreviation: "O")
 - *The Quest of Iranon* (abbreviation: "IRA")
 - *The Shadow over Innsmouth* (abbreviation: "SOI")
 - *The Shunned House* (abbreviation: "TSH")
