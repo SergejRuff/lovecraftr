@@ -380,3 +380,15 @@
 #' @source <https://www.hplovecraft.com/writings/texts/fiction/o.aspx>
 #' @format A character vector with 211 elements
 "outsider"
+
+
+#' The text of H.P. Lovecraft's "The Shadow out of Time"
+#'
+#' A dataset containing the full text of H.P. Lovecraft's
+#' "The Shadow out of Time".
+#' The text is provided as a character vector, with each element
+#' representing a chunk of the full text.
+#'
+#' @source <https://www.hplovecraft.com/writings/texts/fiction/sot.aspx>
+#' @format A character vector with 1528 elements
+"shadow_time"

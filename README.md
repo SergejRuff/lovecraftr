@@ -57,6 +57,7 @@ List of Stories Included in the **lovecraftr** Package:
 - *The Nameless City* (abbreviation: "NC")
 - *The Outsider* (abbreviation: "O")
 - *The Quest of Iranon* (abbreviation: "IRA")
+- *The Shadow out of Time* (abbreviation: "SOT")
 - *The Shadow over Innsmouth* (abbreviation: "SOI")
 - *The Shunned House* (abbreviation: "TSH")
 - *The Silver Key* (abbreviation: "key")

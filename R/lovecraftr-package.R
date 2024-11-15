@@ -36,6 +36,7 @@
 #'   \item{\emph{The Nameless City} - NC}{}
 #'   \item{\emph{The Outsider} - O}{}
 #'   \item{\emph{The Quest of Iranon} - IRA}{}
+#'   \item{\emph{The Shadow out of Time} - SOT}{}
 #'   \item{\emph{The Shadow over Innsmouth} - SOI}{}
 #'   \item{\emph{The Shunned House} - TSH}{}
 #'   \item{\emph{The Silver Key} - key}{}

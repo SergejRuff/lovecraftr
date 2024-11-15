@@ -69,7 +69,8 @@ unearth_lovecraftian_tales <- function(book = NULL) {
     "The Hound" = list(title = "The Hound", abbreviation = "H", text = lovecraftr::hound),
     "The Music of Erich Zann" = list(title = "The Music of Erich Zann", abbreviation = "MEZ", text = lovecraftr::erich_zann),
     "The Nameless City" = list(title = "The Nameless City", abbreviation = "NC", text = lovecraftr::city),
-    "The Outsider" = list(title = "The Outsider", abbreviation = "O", text = lovecraftr::outsider)
+    "The Outsider" = list(title = "The Outsider", abbreviation = "O", text = lovecraftr::outsider),
+    "The Shadow out of Time" = list(title = "The Shadow out of Time", abbreviation = "SOT", text = lovecraftr::shadow_time)
 
   )
 
