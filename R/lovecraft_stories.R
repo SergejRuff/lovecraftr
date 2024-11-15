@@ -392,3 +392,15 @@
 #' @source <https://www.hplovecraft.com/writings/texts/fiction/sot.aspx>
 #' @format A character vector with 1528 elements
 "shadow_time"
+
+
+#' The text of H.P. Lovecraft's "The Temple"
+#'
+#' A dataset containing the full text of H.P. Lovecraft's
+#' "The Temple".
+#' The text is provided as a character vector, with each element
+#' representing a chunk of the full text.
+#'
+#' @source <https://www.hplovecraft.com/writings/texts/fiction/te.aspx>
+#' @format A character vector with 319 elements
+"temple"

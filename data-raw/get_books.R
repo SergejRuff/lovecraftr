@@ -205,6 +205,10 @@ shadow_time <- extract_text_from_url("https://www.hplovecraft.com/writings/texts
 
 shadow_time <-shadow_time[99:1626]
 
+temple <- extract_text_from_url("https://www.hplovecraft.com/writings/texts/fiction/te.aspx")
+
+temple <-temple[99:417]
+
 # function to remove illustrations and seperation *****
 call_of_cthulhu <- remove_illustrations_and_stars(call_of_cthulhu)
 mountain_madness <- remove_illustrations_and_stars(mountain_madness)
@@ -258,3 +262,4 @@ use_data(erich_zann, overwrite = TRUE)
 use_data(city, overwrite = TRUE)
 use_data(outsider, overwrite = TRUE)
 use_data(shadow_time, overwrite = TRUE)
+use_data(temple, overwrite = TRUE)

@@ -61,6 +61,7 @@ List of Stories Included in the **lovecraftr** Package:
 - *The Shadow over Innsmouth* (abbreviation: "SOI")
 - *The Shunned House* (abbreviation: "TSH")
 - *The Silver Key* (abbreviation: "key")
+- *The Temple* (abbreviation: "TE")
 - *The Thing on the Doorstep* (abbreviation: "door")
 - *Writings in the United Amateur* (abbreviation: "WUA")
 

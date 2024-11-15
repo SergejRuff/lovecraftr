@@ -40,6 +40,7 @@
 #'   \item{\emph{The Shadow over Innsmouth} - SOI}{}
 #'   \item{\emph{The Shunned House} - TSH}{}
 #'   \item{\emph{The Silver Key} - key}{}
+#'   \item{\emph{The Temple} - TE}{}
 #'   \item{\emph{The Thing on the Doorstep} - door}{}
 #'   \item{\emph{Writings in the United Amateur} - WUA}{}
 #' }
