@@ -313,3 +313,15 @@
 #' @source <https://www.hplovecraft.com/writings/texts/fiction/ds.aspx>
 #' @format A character vector with 160 elements
 "doom"
+
+#' The text of H.P. Lovecraft's "The Dream-Quest of Unknown Kadath"
+#'
+#' A dataset containing the full text of H.P. Lovecraft's
+#' "The Dream-Quest of Unknown Kadath".
+#' The text is provided as a character vector, with each element
+#' representing a chunk of the full text.
+#'
+#' @source <https://www.hplovecraft.com/writings/texts/fiction/dq.aspx>
+#' @format A character vector with 2483 elements
+"unknown_kadath"
+

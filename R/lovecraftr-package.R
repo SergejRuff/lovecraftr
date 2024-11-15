@@ -24,6 +24,7 @@
 #'   \item{\emph{The Colour Out of Space} - CS}{}
 #'   \item{\emph{The Descendant} - DE}{}
 #'   \item{\emph{The Doom That Came to Sarnath} - DS}{}
+#'   \item{\emph{The Dream-Quest of Unknown Kadath} - DQ}{}
 #'   \item{\emph{The Dunwich Horror} - DW}{}
 #'   \item{\emph{The Festival} - FE}{}
 #'   \item{\emph{The Haunter of the Dark} - haunter}{}

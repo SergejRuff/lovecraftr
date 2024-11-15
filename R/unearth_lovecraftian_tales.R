@@ -63,7 +63,8 @@ unearth_lovecraftian_tales <- function(book = NULL) {
     "Celephais" = list(title = "Celephais", abbreviation = "C", text = lovecraftr::celephais),
     "Dagon" = list(title = "Dagon", abbreviation = "D", text = lovecraftr::dagon),
     "The Descendant" = list(title = "The Descendant", abbreviation = "DE", text = lovecraftr::descendant),
-    "The Doom That Came to Sarnath" = list(title = "The Doom That Came to Sarnath", abbreviation = "DS", text = lovecraftr::doom)
+    "The Doom That Came to Sarnath" = list(title = "The Doom That Came to Sarnath", abbreviation = "DS", text = lovecraftr::doom),
+    "The Dream-Quest of Unknown Kadath" = list(title = "The Dream-Quest of Unknown Kadath", abbreviation = "DQ", text = lovecraftr::unknown_kadath)
   )
 
   # If no book is selected, return the list of available stories
