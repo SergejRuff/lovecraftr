@@ -193,6 +193,10 @@ erich_zann <- extract_text_from_url("https://www.hplovecraft.com/writings/texts/
 
 erich_zann <-erich_zann[99:296]
 
+city <- extract_text_from_url("https://www.hplovecraft.com/writings/texts/fiction/nc.aspx")
+
+city <-city[99:397]
+
 # function to remove illustrations and seperation *****
 call_of_cthulhu <- remove_illustrations_and_stars(call_of_cthulhu)
 mountain_madness <- remove_illustrations_and_stars(mountain_madness)
@@ -243,3 +247,4 @@ use_data(unknown_kadath, overwrite = TRUE)
 use_data(reanimator, overwrite = TRUE)
 use_data(hound, overwrite = TRUE)
 use_data(erich_zann, overwrite = TRUE)
+use_data(city, overwrite = TRUE)

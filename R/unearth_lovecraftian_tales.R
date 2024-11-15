@@ -67,7 +67,8 @@ unearth_lovecraftian_tales <- function(book = NULL) {
     "The Dream-Quest of Unknown Kadath" = list(title = "The Dream-Quest of Unknown Kadath", abbreviation = "DQ", text = lovecraftr::unknown_kadath),
     "Herbert West Reanimator" = list(title = "Herbert West Reanimator", abbreviation = "HWR", text = lovecraftr::reanimator),
     "The Hound" = list(title = "The Hound", abbreviation = "H", text = lovecraftr::hound),
-    "The Music of Erich Zann" = list(title = "The Music of Erich Zann", abbreviation = "MEZ", text = lovecraftr::erich_zann)
+    "The Music of Erich Zann" = list(title = "The Music of Erich Zann", abbreviation = "MEZ", text = lovecraftr::erich_zann),
+    "The Nameless City" = list(title = "The Nameless City", abbreviation = "NC", text = lovecraftr::city)
   )
 
   # If no book is selected, return the list of available stories

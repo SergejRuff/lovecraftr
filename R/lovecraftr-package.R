@@ -33,6 +33,7 @@
 #'   \item{\emph{The Hound} - H}{}
 #'   \item{\emph{The Lurking Fear} - LURK}{}
 #'   \item{\emph{The Music of Erich Zann} - MEZ}{}
+#'   \item{\emph{The Nameless City} - NC}{}
 #'   \item{\emph{The Quest of Iranon} - IRA}{}
 #'   \item{\emph{The Shadow over Innsmouth} - SOI}{}
 #'   \item{\emph{The Shunned House} - TSH}{}

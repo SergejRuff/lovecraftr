@@ -357,3 +357,15 @@
 #' @source <https://www.hplovecraft.com/writings/texts/fiction/mez.aspx>
 #' @format A character vector with 198 elements
 "erich_zann"
+
+
+#' The text of H.P. Lovecraft's "The Nameless City"
+#'
+#' A dataset containing the full text of H.P. Lovecraft's
+#' "The Nameless City".
+#' The text is provided as a character vector, with each element
+#' representing a chunk of the full text.
+#'
+#' @source <https://www.hplovecraft.com/writings/texts/fiction/nc.aspx>
+#' @format A character vector with 299 elements
+"city"
