@@ -30,6 +30,7 @@
 #'   \item{\emph{The Festival} - FE}{}
 #'   \item{\emph{The Haunter of the Dark} - haunter}{}
 #'   \item{\emph{The Horror at Red Hook} - RH}{}
+#'   \item{\emph{The Hound} - H}{}
 #'   \item{\emph{The Lurking Fear} - LURK}{}
 #'   \item{\emph{The Quest of Iranon} - IRA}{}
 #'   \item{\emph{The Shadow over Innsmouth} - SOI}{}

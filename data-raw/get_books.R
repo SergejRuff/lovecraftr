@@ -185,6 +185,10 @@ reanimator <- extract_text_from_url("https://www.hplovecraft.com/writings/texts/
 
 reanimator <- reanimator[99:837]
 
+hound <- extract_text_from_url("https://www.hplovecraft.com/writings/texts/fiction/h.aspx")
+
+hound <-hound[99:287]
+
 # function to remove illustrations and seperation *****
 call_of_cthulhu <- remove_illustrations_and_stars(call_of_cthulhu)
 mountain_madness <- remove_illustrations_and_stars(mountain_madness)
@@ -233,3 +237,4 @@ use_data(descendant, overwrite = TRUE)
 use_data(doom, overwrite = TRUE)
 use_data(unknown_kadath, overwrite = TRUE)
 use_data(reanimator, overwrite = TRUE)
+use_data(hound, overwrite = TRUE)

@@ -335,3 +335,14 @@
 #' @source <https://www.hplovecraft.com/writings/texts/fiction/hwr.aspx>
 #' @format A character vector with 739 elements
 "reanimator"
+
+#' The text of H.P. Lovecraft's "The Hound"
+#'
+#' A dataset containing the full text of H.P. Lovecraft's
+#' "The Hound".
+#' The text is provided as a character vector, with each element
+#' representing a chunk of the full text.
+#'
+#' @source <https://www.hplovecraft.com/writings/texts/fiction/h.aspx>
+#' @format A character vector with 189 elements
+"hound"
