@@ -404,3 +404,14 @@
 #' @source <https://www.hplovecraft.com/writings/texts/fiction/te.aspx>
 #' @format A character vector with 319 elements
 "temple"
+
+#' The text of H.P. Lovecraft's "The Dreams in the Witch House"
+#'
+#' A dataset containing the full text of H.P. Lovecraft's
+#' "The Dreams in the Witch House".
+#' The text is provided as a character vector, with each element
+#' representing a chunk of the full text.
+#'
+#' @source <https://www.hplovecraft.com/writings/texts/fiction/dwh.aspx>
+#' @format A character vector with 892 elements
+"witch_house"

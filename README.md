@@ -46,6 +46,7 @@ List of Stories Included in the **lovecraftr** Package:
 - *The Colour Out of Space* (abbreviation: "CS")
 - *The Descendant* (abbreviation: "DE")
 - *The Doom That Came to Sarnath* (abbreviation: "DS")
+- *The Dreams in the Witch House* (abbreviation: "DWH")
 - *The Dream-Quest of Unknown Kadath* (abbreviation: "DQ")
 - *The Dunwich Horror* (abbreviation: "DW")
 - *The Festival* (abbreviation: "FE")

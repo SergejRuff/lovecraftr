@@ -71,7 +71,8 @@ unearth_lovecraftian_tales <- function(book = NULL) {
     "The Nameless City" = list(title = "The Nameless City", abbreviation = "NC", text = lovecraftr::city),
     "The Outsider" = list(title = "The Outsider", abbreviation = "O", text = lovecraftr::outsider),
     "The Shadow out of Time" = list(title = "The Shadow out of Time", abbreviation = "SOT", text = lovecraftr::shadow_time),
-    "The Temple" = list(title = "The Temple", abbreviation = "TE", text = lovecraftr::temple)
+    "The Temple" = list(title = "The Temple", abbreviation = "TE", text = lovecraftr::temple),
+    "The Dreams in the Witch House" = list(title = "The Dreams in the Witch House", abbreviation = "DWH", text = lovecraftr::witch_house)
 
   )
 
