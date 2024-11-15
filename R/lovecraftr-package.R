@@ -15,6 +15,7 @@
 #'   \item{\emph{Cool Air} - air}{}
 #'   \item{\emph{Dagon} - D}{}
 #'   \item{\emph{He} - HE}{}
+#'   \item{\emph{Herbert West—Reanimator} - HWR}{}
 #'   \item{\emph{The Alchemist} - ALC}{}
 #'   \item{\emph{The Beast in the Cave} - BIC}{}
 #'   \item{\emph{The Book} - book}{}

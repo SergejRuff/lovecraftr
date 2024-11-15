@@ -36,6 +36,7 @@ List of Stories Included in the **lovecraftr** Package:
 - *Cool Air* (abbreviation: "air")
 - *Dagon* (abbreviation: "D")
 - *He* (abbreviation: "HE")
+- *Herbert West—Reanimator* (abbreviation: "HWR")
 - *The Alchemist* (abbreviation: "ALC")
 - *The Beast in the Cave* (abbreviation: "BIC")
 - *The Book* (abbreviation: "book")

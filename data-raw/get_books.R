@@ -181,6 +181,10 @@ unknown_kadath <- extract_text_from_url("https://www.hplovecraft.com/writings/te
 
 unknown_kadath <-unknown_kadath[99:2581]
 
+reanimator <- extract_text_from_url("https://www.hplovecraft.com/writings/texts/fiction/hwr.aspx")
+
+reanimator <- reanimator[99:837]
+
 # function to remove illustrations and seperation *****
 call_of_cthulhu <- remove_illustrations_and_stars(call_of_cthulhu)
 mountain_madness <- remove_illustrations_and_stars(mountain_madness)
@@ -228,3 +232,4 @@ use_data(dagon, overwrite = TRUE)
 use_data(descendant, overwrite = TRUE)
 use_data(doom, overwrite = TRUE)
 use_data(unknown_kadath, overwrite = TRUE)
+use_data(reanimator, overwrite = TRUE)

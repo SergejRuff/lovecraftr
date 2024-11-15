@@ -325,3 +325,13 @@
 #' @format A character vector with 2483 elements
 "unknown_kadath"
 
+#' The text of H.P. Lovecraft's "Herbert West—Reanimator"
+#'
+#' A dataset containing the full text of H.P. Lovecraft's
+#' "Herbert West—Reanimator".
+#' The text is provided as a character vector, with each element
+#' representing a chunk of the full text.
+#'
+#' @source <https://www.hplovecraft.com/writings/texts/fiction/hwr.aspx>
+#' @format A character vector with 739 elements
+"reanimator"
