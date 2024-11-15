@@ -53,6 +53,7 @@ List of Stories Included in the **lovecraftr** Package:
 - *The Horror at Red Hook* (abbreviation: "RH")
 - *The Hound* (abbreviation: "H")
 - *The Lurking Fear* (abbreviation: "LURK")
+- *The Music of Erich Zann* (abbreviation: "MEZ")
 - *The Quest of Iranon* (abbreviation: "IRA")
 - *The Shadow over Innsmouth* (abbreviation: "SOI")
 - *The Shunned House* (abbreviation: "TSH")

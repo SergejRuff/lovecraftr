@@ -346,3 +346,14 @@
 #' @source <https://www.hplovecraft.com/writings/texts/fiction/h.aspx>
 #' @format A character vector with 189 elements
 "hound"
+
+#' The text of H.P. Lovecraft's "The Music of Erich Zann"
+#'
+#' A dataset containing the full text of H.P. Lovecraft's
+#' "The Music of Erich Zann".
+#' The text is provided as a character vector, with each element
+#' representing a chunk of the full text.
+#'
+#' @source <https://www.hplovecraft.com/writings/texts/fiction/mez.aspx>
+#' @format A character vector with 198 elements
+"erich_zann"
