@@ -3,6 +3,7 @@
 
 [![R-CMD-check](https://github.com/SergejRuff/lovecraftr/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/SergejRuff/lovecraftr/actions/workflows/R-CMD-check.yaml)
 [![Codecov test coverage](https://codecov.io/gh/SergejRuff/lovecraftr/graph/badge.svg)](https://app.codecov.io/gh/SergejRuff/lovecraftr)
+[![](https://cranlogs.r-pkg.org/badges/grand-total/lovecraftr)](https://cran.r-project.org/package=lovecraftr)
 
 
 The **lovecraftr** package offers a collection of H.P. Lovecraft's most renowned stories,
