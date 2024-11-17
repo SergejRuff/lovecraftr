@@ -7,6 +7,14 @@ text analysis, and exploration of Lovecraft’s unique themes and style within t
 
 ## Installation
 
+To install the CRAN version:
+
+``` r
+
+install.packages("lovecraftr")
+
+```
+
 To install the development version of **lovecraftr** from GitHub, follow these steps:
 
 ``` r
