@@ -1,5 +1,7 @@
 # lovecraftr <img src="tools/logo.png" align="right"/>
 
+[![](https://cranlogs.r-pkg.org/badges/grand-total/lovecraftr)](https://cran.r-project.org/package=lovecraftr)
+
 The **lovecraftr** package offers a collection of H.P. Lovecraft's most renowned stories,
 formatted for easy access and text analysis. This package is intended for literary study,
 text analysis, and exploration of Lovecraft’s unique themes and style within the horror genre.
