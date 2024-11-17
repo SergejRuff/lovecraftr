@@ -1,5 +1,10 @@
 # lovecraftr <img src="tools/logo.png" align="right"/>
 
+
+[![R-CMD-check](https://github.com/SergejRuff/lovecraftr/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/SergejRuff/lovecraftr/actions/workflows/R-CMD-check.yaml)
+[![Codecov test coverage](https://codecov.io/gh/SergejRuff/lovecraftr/graph/badge.svg)](https://app.codecov.io/gh/SergejRuff/lovecraftr)
+
+
 The **lovecraftr** package offers a collection of H.P. Lovecraft's most renowned stories,
 formatted for easy access and text analysis. This package is intended for literary study,
 text analysis, and exploration of Lovecraft’s unique themes and style within the horror genre.
