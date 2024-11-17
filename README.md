@@ -7,6 +7,14 @@ text analysis, and exploration of Lovecraft’s unique themes and style within t
 
 ## Installation
 
+To install the CRAN version:
+
+``` r
+
+install.packages("lovecraftr")
+
+```
+
 To install the development version of **lovecraftr** from GitHub, follow these steps:
 
 ``` r
@@ -76,14 +84,14 @@ When utilizing **lovecraftr** in your research or software development, kindly r
 
 ``` r
 
-### Citation function
+### Citation function (version "X.X.X" -> version varies depending on release)
 
 citation("lovecraftr")
 
 
 #> To cite package ‘lovecraftr’ in publications use:
 #> 
-#>   Ruff S (2024). _lovecraftr: A Collection of Lovecraftian Tales and Texts_. R package version 1.0.0,
+#>   Ruff S (2024). _lovecraftr: A Collection of Lovecraftian Tales and Texts_. R package version X.X.X,
 #>   <https://github.com/SergejRuff/lovecraftr>.
 
 #> A BibTeX entry for LaTeX users is
@@ -93,7 +101,7 @@ citation("lovecraftr")
 #>     author = {Sergej Ruff},
 #>     url = {https://github.com/SergejRuff/lovecraftr},
 #>     year = {2024},
-#>     note = {R package version 1.0.0},
+#>     note = {R package version X.X.X},
 #>   }
 
 ```
