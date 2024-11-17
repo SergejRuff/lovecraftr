@@ -4,7 +4,7 @@
 status](https://www.r-pkg.org/badges/version/lovecraftr)](https://cran.r-project.org/package=lovecraftr)
 [![R-CMD-check](https://github.com/SergejRuff/lovecraftr/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/SergejRuff/lovecraftr/actions/workflows/R-CMD-check.yaml)
 [![](https://cranlogs.r-pkg.org/badges/grand-total/lovecraftr)](https://cran.r-project.org/package=lovecraftr)
-
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 The **lovecraftr** package offers a collection of H.P. Lovecraft's most renowned stories,
 formatted for easy access and text analysis. This package is intended for literary study,
