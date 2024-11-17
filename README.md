@@ -27,6 +27,8 @@ The `unearth_lovecraftian_tales()` function provides a dataframe containing all 
 By default, calling `unearth_lovecraftian_tales()` returns the complete list of titles and abbreviations within the package. 
 To retrieve the text of a specific story, you can provide either the full title, e.g., `unearth_lovecraftian_tales("At the Mountains of Madness")`, or the abbreviation, e.g., `unearth_lovecraftian_tales("MM")`.
 
+The `fetch_lovecraft()` function downloads H.P. Lovecraft's writings directly from the H.P. Lovecraft Archive (https://www.hplovecraft.com/), providing users with easy access to all of his works, including those not available through the `unearth_lovecraftian_tales()` function.
+
 List of Stories Included in the **lovecraftr** Package:
 
 - *At the Mountains of Madness* (abbreviation: "MM")
