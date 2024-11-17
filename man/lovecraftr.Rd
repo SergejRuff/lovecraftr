@@ -6,6 +6,7 @@
 \alias{lovecraftr-package}
 \title{Lovecraftr: A Collection of H.P. Lovecraft's Classic Stories}
 \description{
+\figure{logo.png}{options: style='float: right' alt='logo' width='120'}
 The \emph{lovecraftr} package offers a collection of H.P. Lovecraft's most renowned stories,
 formatted for easy access and text analysis. This package is intended for literary study,
 text analysis, and exploration of Lovecraft’s unique themes and style within the horror genre.

@@ -1,4 +1,4 @@
-# lovecraftr 
+# lovecraftr <img src="tools/logo.png" align="right"/>
 
 The **lovecraftr** package offers a collection of H.P. Lovecraft's most renowned stories,
 formatted for easy access and text analysis. This package is intended for literary study,

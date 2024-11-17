@@ -268,3 +268,39 @@ use_data(outsider, overwrite = TRUE)
 use_data(shadow_time, overwrite = TRUE)
 use_data(temple, overwrite = TRUE)
 use_data(witch_house, overwrite = TRUE)
+
+
+
+
+######################## Create logo
+
+
+rm(list=ls())
+
+library(hexSticker)
+library(magick)
+
+
+hexSticker::sticker("data-raw/file.png",
+                    package = "lovecraftr",       # Adds the title
+                    p_color = "#780606",             # Title color
+                    h_size = 1.5,
+                    h_color = "black",
+                    h_fill = "white",
+                    p_size = 18,                    # Title size for visibility
+                    p_y = 0.5,                     # Moves the title below the image
+                    p_family = "Roboto-Bold",      # Bold font (ensure it's installed)
+                    s_x = 1,                       # Center the image horizontally
+                    s_y = 1.2,                       # Keeps the image centered
+                    s_width = 0.8,                 # Shrink the image width
+                    s_height = 0.8,                # Shrink the image height
+                    url = "https://github.com/SergejRuff/lovecraftr", # Add URL
+                    u_size = 2,                    # Adjust the URL size
+                    u_y = 0.05,                    # Position the URL near the bottom
+                    u_color = "black",             # URL color
+                    filename = "tools/lovecraftr.png")
+
+
+lovecra <- magick::image_read("tools/lovecraftr.png")
+image_scale(lovecra, "150") %>%
+  image_write(path = "tools/logo.png", format = "png")
